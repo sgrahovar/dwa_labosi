@@ -1,0 +1,67 @@
+*{margin: 0; padding: 0;}
+
+.clear{clear: both;}
+
+body{background-color: #DE535D;}
+
+#c1 .col{position: relative; float: left; width: 455px; height: auto; min-height: 400px; text-align: center; background-color: #BC1F2A; padding: 10px;}
+
+#c1 .mar{margin-left: 10px;}
+
+#wrapper{margin: 0 auto; width: 960px; height: auto;}
+
+#copyright{position: relative; width: 960px; height: auto; border-top: 5px solid black; text-align: center; margin-top: 10px;}
+
+#header
+{
+	width: 960px;
+	height: 100px;
+	margin-bottom: 10px;
+}
+
+#header #logo
+{
+	float: left; 
+	width: 220px;
+	height: 100px;
+}
+
+#header #user
+{	
+	float: left;
+	text-align: right;
+	width: 710px;
+	height: 80px;
+	background-color: #BC1F2A;
+	padding: 10px;
+	line-height: 80px;
+}
+
+#c2 .col1{position: relative; float: left; width: 220px; height: auto; min-height: 420px; text-align: center; background-color: #BC1F2A;}
+
+#c2 .col1 ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#c2 .col1 li
+{
+	border-bottom: 1px solid black;
+	text-align: center;
+	height: 45px;
+}
+
+#c2 .col1 li a{display: block; padding: 10px; color: white;}
+
+#c2 .col1 .last{border: none;}
+
+#c2 .col{position: relative; float: left; width: 710px; height: auto; min-height: 400px; text-align: left; background-color: #BC1F2A; padding: 10px;}
+
+#c2 .col h2{color: white; font-family: 'Oswald', sans-serif;}
+#c2 .col p{color: #E6E6E6; font-family: 'Jura', sans-serif; margin-bottom: 20px;}
+#c2 .col ul{margin-left: 30px; margin-bottom: 20px;}
+#c2 .col ul li{color: #E6E6E6; font-family: 'Jura';}
+
+#c2 .mar{margin-left: 10px;}
